@@ -5,10 +5,10 @@
 
 
 
-## 개발기간
+### 개발기간
 2023.04.03 ~ 2023.04.20 (약2주)
 
-## 개발환경
+### 개발환경
 ### 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
